@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bcf2c32b7c8e14988a7f4a35b7a196, type: 3}
+  m_Name: JewelBoardConfig
+  m_EditorClassIdentifier: 
+  Columns: 12
+  Rows: 16
+  MinBlockWidth: 1
+  MaxBlockWidth: 4
+  InitialRows: 4
+  RequiredColumnsForClear: 12
+  GameOverRow: 15
+  MaxMoves: 0
+  TargetScore: 0
+  GravityFallTime: 0.2
+  RowRiseTime: 0.3
+  ClearAnimationTime: 0.4

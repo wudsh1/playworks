@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 677f90723fbe73f4abebf4baca400446, type: 3}
+  m_Name: CropData
+  m_EditorClassIdentifier: 
+  OriginalSize: {x: 720, y: 1280}
+  FrameCount: 30
+  FrameDataList:
+  - FrameIndex: 0
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00001.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00001_cropped.png"
+    CroppedSize: {x: 149, y: 36}
+    OffsetFromCenter: {x: -5.5, y: 12}
+    CropRect:
+      serializedVersion: 2
+      x: 280
+      y: 634
+      width: 149
+      height: 36
+  - FrameIndex: 1
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00002.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00002_cropped.png"
+    CroppedSize: {x: 150, y: 40}
+    OffsetFromCenter: {x: -2, y: 22}
+    CropRect:
+      serializedVersion: 2
+      x: 283
+      y: 642
+      width: 150
+      height: 40
+  - FrameIndex: 2
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00003.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00003_cropped.png"
+    CroppedSize: {x: 154, y: 45}
+    OffsetFromCenter: {x: 0, y: 30.5}
+    CropRect:
+      serializedVersion: 2
+      x: 283
+      y: 648
+      width: 154
+      height: 45
+  - FrameIndex: 3
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00004.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00004_cropped.png"
+    CroppedSize: {x: 161, y: 49}
+    OffsetFromCenter: {x: -0.5, y: 37.5}
+    CropRect:
+      serializedVersion: 2
+      x: 279
+      y: 653
+      width: 161
+      height: 49
+  - FrameIndex: 4
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00005.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00005_cropped.png"
+    CroppedSize: {x: 176, y: 60}
+    OffsetFromCenter: {x: 0, y: 47}
+    CropRect:
+      serializedVersion: 2
+      x: 272
+      y: 657
+      width: 176
+      height: 60
+  - FrameIndex: 5
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00006.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00006_cropped.png"
+    CroppedSize: {x: 183, y: 68}
+    OffsetFromCenter: {x: 0.5, y: 51}
+    CropRect:
+      serializedVersion: 2
+      x: 269
+      y: 657
+      width: 183
+      height: 68
+  - FrameIndex: 6
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00007.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00007_cropped.png"
+    CroppedSize: {x: 190, y: 74}
+    OffsetFromCenter: {x: 0, y: 53}
+    CropRect:
+      serializedVersion: 2
+      x: 265
+      y: 656
+      width: 190
+      height: 74
+  - FrameIndex: 7
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00008.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00008_cropped.png"
+    CroppedSize: {x: 198, y: 81}
+    OffsetFromCenter: {x: 0, y: 54.5}
+    CropRect:
+      serializedVersion: 2
+      x: 261
+      y: 654
+      width: 198
+      height: 81
+  - FrameIndex: 8
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00009.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00009_cropped.png"
+    CroppedSize: {x: 206, y: 87}
+    OffsetFromCenter: {x: 0, y: 53.5}
+    CropRect:
+      serializedVersion: 2
+      x: 257
+      y: 650
+      width: 206
+      height: 87
+  - FrameIndex: 9
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00010.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00010_cropped.png"
+    CroppedSize: {x: 222, y: 102}
+    OffsetFromCenter: {x: -1, y: 50}
+    CropRect:
+      serializedVersion: 2
+      x: 248
+      y: 639
+      width: 222
+      height: 102
+  - FrameIndex: 10
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00011.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00011_cropped.png"
+    CroppedSize: {x: 230, y: 110}
+    OffsetFromCenter: {x: -1, y: 46}
+    CropRect:
+      serializedVersion: 2
+      x: 244
+      y: 631
+      width: 230
+      height: 110
+  - FrameIndex: 11
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00012.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00012_cropped.png"
+    CroppedSize: {x: 238, y: 118}
+    OffsetFromCenter: {x: -1, y: 41}
+    CropRect:
+      serializedVersion: 2
+      x: 240
+      y: 622
+      width: 238
+      height: 118
+  - FrameIndex: 12
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00013.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00013_cropped.png"
+    CroppedSize: {x: 248, y: 127}
+    OffsetFromCenter: {x: -2, y: 33.5}
+    CropRect:
+      serializedVersion: 2
+      x: 234
+      y: 610
+      width: 248
+      height: 127
+  - FrameIndex: 13
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00014.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00014_cropped.png"
+    CroppedSize: {x: 257, y: 138}
+    OffsetFromCenter: {x: -1.5, y: 24}
+    CropRect:
+      serializedVersion: 2
+      x: 230
+      y: 595
+      width: 257
+      height: 138
+  - FrameIndex: 14
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00015.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00015_cropped.png"
+    CroppedSize: {x: 276, y: 157}
+    OffsetFromCenter: {x: 0, y: -0.5}
+    CropRect:
+      serializedVersion: 2
+      x: 222
+      y: 561
+      width: 276
+      height: 157
+  - FrameIndex: 15
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00016.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00016_cropped.png"
+    CroppedSize: {x: 287, y: 168}
+    OffsetFromCenter: {x: 0.5, y: -15}
+    CropRect:
+      serializedVersion: 2
+      x: 217
+      y: 541
+      width: 287
+      height: 168
+  - FrameIndex: 16
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00017.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00017_cropped.png"
+    CroppedSize: {x: 300, y: 178}
+    OffsetFromCenter: {x: 0, y: -31}
+    CropRect:
+      serializedVersion: 2
+      x: 210
+      y: 520
+      width: 300
+      height: 178
+  - FrameIndex: 17
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00018.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00018_cropped.png"
+    CroppedSize: {x: 309, y: 189}
+    OffsetFromCenter: {x: 0.5, y: -48.5}
+    CropRect:
+      serializedVersion: 2
+      x: 206
+      y: 497
+      width: 309
+      height: 189
+  - FrameIndex: 18
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00019.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00019_cropped.png"
+    CroppedSize: {x: 319, y: 203}
+    OffsetFromCenter: {x: 0.5, y: -68.5}
+    CropRect:
+      serializedVersion: 2
+      x: 201
+      y: 470
+      width: 319
+      height: 203
+  - FrameIndex: 19
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00020.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00020_cropped.png"
+    CroppedSize: {x: 341, y: 227}
+    OffsetFromCenter: {x: -0.5, y: -115.5}
+    CropRect:
+      serializedVersion: 2
+      x: 189
+      y: 411
+      width: 341
+      height: 227
+  - FrameIndex: 20
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00021.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00021_cropped.png"
+    CroppedSize: {x: 352, y: 242}
+    OffsetFromCenter: {x: -1, y: -142}
+    CropRect:
+      serializedVersion: 2
+      x: 183
+      y: 377
+      width: 352
+      height: 242
+  - FrameIndex: 21
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00022.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00022_cropped.png"
+    CroppedSize: {x: 363, y: 259}
+    OffsetFromCenter: {x: -1.5, y: -171.5}
+    CropRect:
+      serializedVersion: 2
+      x: 177
+      y: 339
+      width: 363
+      height: 259
+  - FrameIndex: 22
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00023.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00023_cropped.png"
+    CroppedSize: {x: 375, y: 274}
+    OffsetFromCenter: {x: -1.5, y: -204}
+    CropRect:
+      serializedVersion: 2
+      x: 171
+      y: 299
+      width: 375
+      height: 274
+  - FrameIndex: 23
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00024.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00024_cropped.png"
+    CroppedSize: {x: 388, y: 291}
+    OffsetFromCenter: {x: -1, y: -237.5}
+    CropRect:
+      serializedVersion: 2
+      x: 165
+      y: 257
+      width: 388
+      height: 291
+  - FrameIndex: 24
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00025.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00025_cropped.png"
+    CroppedSize: {x: 375, y: 250}
+    OffsetFromCenter: {x: 18.5, y: -275}
+    CropRect:
+      serializedVersion: 2
+      x: 191
+      y: 240
+      width: 375
+      height: 250
+  - FrameIndex: 25
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00026.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00026_cropped.png"
+    CroppedSize: {x: 388, y: 218}
+    OffsetFromCenter: {x: 20, y: -291}
+    CropRect:
+      serializedVersion: 2
+      x: 186
+      y: 240
+      width: 388
+      height: 218
+  - FrameIndex: 26
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00027.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00027_cropped.png"
+    CroppedSize: {x: 365, y: 184}
+    OffsetFromCenter: {x: 3.5, y: -308}
+    CropRect:
+      serializedVersion: 2
+      x: 181
+      y: 240
+      width: 365
+      height: 184
+  - FrameIndex: 27
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00028.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00028_cropped.png"
+    CroppedSize: {x: 373, y: 148}
+    OffsetFromCenter: {x: 4.5, y: -326}
+    CropRect:
+      serializedVersion: 2
+      x: 178
+      y: 240
+      width: 373
+      height: 148
+  - FrameIndex: 28
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00029.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00029_cropped.png"
+    CroppedSize: {x: 136, y: 95}
+    OffsetFromCenter: {x: 35, y: -338.5}
+    CropRect:
+      serializedVersion: 2
+      x: 327
+      y: 254
+      width: 136
+      height: 95
+  - FrameIndex: 29
+    OriginalFileName: "\u7C89\u8272\u6D88\u9664_00030.png"
+    CroppedFileName: "\u7C89\u8272\u6D88\u9664_00030_cropped.png"
+    CroppedSize: {x: 8, y: 7}
+    OffsetFromCenter: {x: 104, y: -378.5}
+    CropRect:
+      serializedVersion: 2
+      x: 460
+      y: 258
+      width: 8
+      height: 7
