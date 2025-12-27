@@ -1,0 +1,1 @@
+Creatives for Jewe-store1-auto exported at Sat Dec 27 2025 06:19:21 GMT+0000 (Coordinated Universal Time)
